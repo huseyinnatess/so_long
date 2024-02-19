@@ -16,6 +16,7 @@ Bu, 42 Okulunun çekirdek müfredatının bir parçası olan so_long projesinin 
 - Boş alanlar 0 ile doldurulmalıdır.
 - Harita dosyasının uzantısı .ber olmalıdır.
 - Harita dosyasında sadece şu karakterler bulunmalıdır: P, E, C, 1, 0.
+
 Örnek bir harita:
 
 ```
