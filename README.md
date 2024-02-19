@@ -6,7 +6,7 @@ Bu, 42 Okulunun çekirdek müfredatının bir parçası olan so_long projesinin 
 - Oyunu çalıştırmak için OpenGL ve AppKit gereklidir.
 - Linux’ta çalıştırmak isterseniz, bu rehber size yardımcı olabilir.
 
-# Harita Yapısı
+## Harita Yapısı
 * Geçerli bir harita aşağıdaki gibi yapılandırılmalıdır:
 - En az 1 oyuncu (P)
 - En az 1 çıkış (E)
@@ -27,11 +27,12 @@ Bu, 42 Okulunun çekirdek müfredatının bir parçası olan so_long projesinin 
 1111111111111
 ```
 
-Nasıl Çalıştırılır
-Terminalde proje dizinine gidin.
-make all komutuyla projeyi derleyin.
-./so_long maps/map1.ber komutuyla oyunu çalıştırın.
-Oyun İçi Kontroller
-Oyuncu sadece WASD tuşlarıyla hareket edebilir.
-Oyuncu duvarlara çarpamaz.
-Oyuncu tüm toplanabilir nesneleri topladığında çıkışa ulaşabilir.
+## Nasıl Çalıştırılır?
+- Terminalde proje dizinine gidin. -
+- make all komutuyla projeyi derleyin.
+- ./so_long maps/map1.ber komutuyla oyunu çalıştırın.
+
+## Oyun İçi Kontroller
+- Oyuncu sadece WASD tuşlarıyla hareket edebilir.
+- Oyuncu duvarlara çarpamaz.
+- Oyuncu tüm toplanabilir nesneleri topladığında çıkışa ulaşabilir.
