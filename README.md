@@ -1,4 +1,4 @@
-### [EN]
+## [EN]
 
 ## Project Overview
 
@@ -65,9 +65,7 @@ The key features to be implemented in this project include:
 
 4. The game will end when all objectives are collected or another termination condition is met.
 
-### [TR]
-
-# so_long
+## [TR]
 
 ## Proje Hakkında
 
