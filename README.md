@@ -64,6 +64,7 @@ The key features to be implemented in this project include:
 3. While playing, you can move your character using the arrow keys and collect objectives on the map.
 
 4. The game will end when all objectives are collected or another termination condition is met.
+---
 
 ## [TR]
 
