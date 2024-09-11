@@ -59,7 +59,7 @@ The key features to be implemented in this project include:
    ```bash
    ./so_long map.ber
 
-   Here, `map.ber` is a map file defining the game area. This file specifies the structure of the game field.
+2. Here, `map.ber` is a map file defining the game area. This file specifies the structure of the game field.
 
 3. While playing, you can move your character using the arrow keys and collect objectives on the map.
 
@@ -106,27 +106,31 @@ Bu projede implemente edilmesi gereken temel özellikler şunlardır:
 
 1. Depoyu klonlayın:
 
+   ```bash
    git clone https://github.com/huseyinnatess/so_long.git
 
 2. Proje dizinine gidin:
 
+    ```bash
    cd so_long
 
 3. Minilibx kütüphanesinin kurulu olduğundan emin olun. Minilibx’in nasıl kurulacağı hakkında daha fazla bilgi [burada](https://github.com/42Paris/minilibx) bulunabilir.
 
 4. Projeyi derleyin:
 
+    ```bash
    make
 
 ### Kullanım
 
 1. Oyunu başlatın:
 
+    ```bash
    ./so_long map.ber
 
-   Burada, `map.ber` oyun alanını tanımlayan bir harita dosyasıdır. Bu dosya, oyun alanının yapısını belirler.
+2. Burada, `map.ber` oyun alanını tanımlayan bir harita dosyasıdır. Bu dosya, oyun alanının yapısını belirler.
 
-2. Oynarken, karakterinizi ok tuşlarıyla hareket ettirebilir ve harita üzerindeki hedefleri toplayabilirsiniz.
+3. Oynarken, karakterinizi ok tuşlarıyla hareket ettirebilir ve harita üzerindeki hedefleri toplayabilirsiniz.
 
-3. Oyun, tüm hedefler toplandığında veya başka bir sonlanma koşulu gerçekleştiğinde sona erecektir.
+4. Oyun, tüm hedefler toplandığında veya başka bir sonlanma koşulu gerçekleştiğinde sona erecektir.
 
