@@ -56,13 +56,14 @@ The key features to be implemented in this project include:
 
 1. Launch the game:
 
+   ```bash
    ./so_long map.ber
 
    Here, `map.ber` is a map file defining the game area. This file specifies the structure of the game field.
 
-2. While playing, you can move your character using the arrow keys and collect objectives on the map.
+3. While playing, you can move your character using the arrow keys and collect objectives on the map.
 
-3. The game will end when all objectives are collected or another termination condition is met.
+4. The game will end when all objectives are collected or another termination condition is met.
 
 ### [TR]
 
